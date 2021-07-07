@@ -22,8 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <h4> Main UI </h4>
 
-<img src="https://user-images.githubusercontent.com/55010518/124769718-53711200-df57-11eb-9cc2-bebfd1189fd9.png" width = "360" height = "940">
+<img src="https://user-images.githubusercontent.com/55010518/124769718-53711200-df57-11eb-9cc2-bebfd1189fd9.png" width = "360" height = "640">
 
 <h4> Task Adding UI </h4>
 
-<img src="https://user-images.githubusercontent.com/55010518/124769912-81eeed00-df57-11eb-8008-f9c708ef78b2.png" width = "360" height = "940">
+<img src="https://user-images.githubusercontent.com/55010518/124769912-81eeed00-df57-11eb-8008-f9c708ef78b2.png" width = "360" height = "640">
